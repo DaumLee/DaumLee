@@ -1,5 +1,11 @@
-### Hi there 👋
-<img src="http://mazandi.herokuapp.com/api?handle=daumlee&theme=warm"/>
+<div align="center" dir="auto">
+  <p><img src="http://mazandi.herokuapp.com/api?handle=daumlee&theme=warm"/></p>
+  <p/>
+  <p>🎓 Kookmin Univ. / MIS & SW</p>
+  <p>🌱 Samsung Convergence Software Academy (SCSA)</p>
+  <p>🏢 Samsung Electronics</p>
+</div>
+
 <!--
 **DaumLee/DaumLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
