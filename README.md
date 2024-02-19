@@ -2,7 +2,7 @@
   <p><img src="http://mazandi.herokuapp.com/api?handle=daumlee&theme=warm"/></p>
   <p/>
   <p>🎓 Kookmin Univ. / MIS & SW</p>
-  <p>🪖 ROKA 3Div RECON</p>
+  <p>☠ ROKA 3Div RECON</p>
   <p>🌱 Samsung Convergence Software Academy (SCSA)</p>
   <p>🏢 Samsung Electronics</p>
 </div>
