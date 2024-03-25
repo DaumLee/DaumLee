@@ -1,6 +1,5 @@
 <div align="center" dir="auto">
-  <p><img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=daumlee"></p>
-  <p><img src="http://mazandi.herokuapp.com/api?handle=daumlee&theme=warm"/></p>
+  <p><img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=daumlee" href="https://solved.ac/profile/daumlee"></p>
   <p/>
   <p>🎓 Kookmin Univ. / MIS & SW</p>
   <p>☠ ROKA 3Div RECON</p>
